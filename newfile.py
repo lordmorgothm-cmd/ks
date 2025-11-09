@@ -2,9 +2,9 @@ import requests
 import time
 import re
 
-channel_id = ""
-auth_token = ""
-target_user_id = ""
+channel_id = "1437164664776560812"
+auth_token = "MTQzNzEwNjMwNjA2MTMwNzk5Nw.GWAUW-.z5rAU5FS0CkozHlcofZu3jKAm-aY-eRgNMZGZo"
+target_user_id = "564997004422283294"
 
 reply_texts = [
     "نيكمك", "جلدمك", "حرقمك", "نكحمك", " شطرمك",
